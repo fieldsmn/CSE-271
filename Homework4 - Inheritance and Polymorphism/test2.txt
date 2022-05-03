@@ -1,0 +1,24 @@
+N
+How many cats do I have?
+8
+MM
+Which of these are names of my cats? (Select all that apply)
+-Sophie
++Josie Nicole
++Gracie Louise
+-Lucy
++Bridget Marie
+
+M1
+Which one of these is Jim's phone number?
+-614-254-3485
+-491-720-4343
++614-309-3009
+-614-793-9062
+
+T
+True or False: My mom's maiden name is McCoy
+false
+S
+What is my middle name?
+Nathaniel

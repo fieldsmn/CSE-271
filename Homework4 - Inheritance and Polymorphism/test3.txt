@@ -1,0 +1,39 @@
+N
+What is my favorite number?
+24
+S
+What is my favorite hockey team? (city + team name)
+Columbus Blue Jackets
+S
+Who is my favorite hockey player? (first + last name)
+Jack Roslovic
+N
+What is my favorite hockey player's number?
+96
+MM
+Which of these players attended Miami University? (Select all that apply)
++Jack Roslovic
++Sean Kuraly
+-Oliver Bjorkstrand
+-Patrick Kane
+
+M1 
+Which of these is my #1 favorite color?
++red
+-blue
+-green
+-indigo
+
+MM
+What sports did I play at some point in high school? (Select all that apply)
++Hockey
++Lacrosse
+-Soccer
+-Football
+
+M1 
+How many days are there in a fortnight?
++14 days
+-11 days
+-7 days
+-15 days
